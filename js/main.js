@@ -1,3 +1,4 @@
+
 /**
  * This function just returns a nice object with the properties built.
  * This could have also been defined itself in the stories array.
